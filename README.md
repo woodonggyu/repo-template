@@ -1,14 +1,15 @@
 # repo-template
 
-* **Applied .gitignore**
+The set template is as follows. (**Can be customized**)
+
+* Applied .gitignore
   * .gitignore file brings from .gitignore.io (default. "Python", "PyCharm+all", "macOS", "Linux", "Windows", "Terraform").
-* **Applied template of issue, label, pull request**
-* **Release Automation (using. release-drafter) (proceeding)** 
-
-※ **Can be customized**
+* Applied template of issue, label, pull request
+* Release automation (using. release-drafter) (proceeding) 
 
 
-### labels.json
+
+## labels.json
 * At First, [Create Personal Access Token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * For label synchronization, you need to install the `github-label-sync` module.
 
