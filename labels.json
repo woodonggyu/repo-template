@@ -1,0 +1,60 @@
+[
+  {
+    "name": "type: bug",
+    "color": "d73a4a",
+    "description": "Indicates an unexpected problem or unintended behavior"
+  },
+  {
+    "name": "type: enhancement",
+    "color": "fbca04",
+    "description": "Indicates new feature requests"
+  },
+  {
+    "name": "type: documentation",
+    "color": "006b75",
+    "description": "Indicates a need for improvements or additions to documentation"
+  },
+  {
+    "name": "type: dependencies",
+    "color": "0366d6",
+    "description": "Indicates dependency issues"
+  },
+  {
+    "name": "status: duplicate",
+    "color": "cfd3d7",
+    "description": "Indicates similar issues, pull requests, or discussions"
+  },
+  {
+    "name": "status: wont do/fix",
+    "color": "eeeeee",
+    "description": "Indicates that work won't continue on an issue, pull request, or discussion"
+  },
+  {
+    "name": "priority: critical",
+    "color": "b60205"
+  },
+  {
+    "name": "priority: high",
+    "color": "d93f0b"
+  },
+  {
+    "name": "priority: medium",
+    "color": "fbca04"
+  },
+  {
+    "name": "priority: low",
+    "color": "0e8a16"
+  },
+  {
+    "name": "release: major",
+    "color": "ffff00"
+  },
+  {
+    "name": "release: minor",
+    "color": "ffff99"
+  },
+  {
+    "name": "release: patch",
+    "color": "ffffe6"
+  }
+]
