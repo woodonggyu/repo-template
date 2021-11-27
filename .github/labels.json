@@ -1,31 +1,31 @@
 [
   {
-    "name": "type: bug",
+    "name": "bug",
     "color": "d73a4a",
     "description": "Indicates an unexpected problem or unintended behavior"
   },
   {
-    "name": "type: enhancement",
+    "name": "enhancement",
     "color": "fbca04",
     "description": "Indicates new feature requests"
   },
   {
-    "name": "type: documentation",
+    "name": "documentation",
     "color": "006b75",
     "description": "Indicates a need for improvements or additions to documentation"
   },
   {
-    "name": "type: dependencies",
+    "name": "dependencies",
     "color": "0366d6",
     "description": "Indicates dependency issues"
   },
   {
-    "name": "status: duplicate",
+    "name": "duplicate",
     "color": "cfd3d7",
     "description": "Indicates similar issues, pull requests, or discussions"
   },
   {
-    "name": "status: wont do/fix",
+    "name": "wont do/fix",
     "color": "eeeeee",
     "description": "Indicates that work won't continue on an issue, pull request, or discussion"
   },
@@ -46,15 +46,15 @@
     "color": "0e8a16"
   },
   {
-    "name": "release: major",
+    "name": "major",
     "color": "ffff00"
   },
   {
-    "name": "release: minor",
+    "name": "minor",
     "color": "ffff99"
   },
   {
-    "name": "release: patch",
+    "name": "patch",
     "color": "ffffe6"
   }
 ]
