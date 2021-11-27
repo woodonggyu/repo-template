@@ -5,7 +5,8 @@ The set template is as follows. (**Can be customized**)
 * Applied .gitignore
   * .gitignore file brings from .gitignore.io (default. "Python", "PyCharm+all", "macOS", "Linux", "Windows", "Terraform").
 * Applied template of issue, label, pull request
-* Release automation (using. release-drafter) (proceeding) 
+* Release automation (using. release-drafter)
+* Applied pre-commit hook (flake8)
 
 
 
