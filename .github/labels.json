@@ -16,7 +16,7 @@
   },
   {
     "name": "dependencies",
-    "color": "0366d6",
+    "color": "f58cdd",
     "description": "Indicates dependency issues"
   },
   {
@@ -47,14 +47,14 @@
   },
   {
     "name": "major",
-    "color": "ffff00"
+    "color": "0fe772"
   },
   {
     "name": "minor",
-    "color": "ffff99"
+    "color": "73e84a"
   },
   {
     "name": "patch",
-    "color": "ffffe6"
+    "color": "cfd988"
   }
 ]
