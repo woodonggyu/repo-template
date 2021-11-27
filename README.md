@@ -7,6 +7,7 @@ The set template is as follows. (**Can be customized**)
 * Applied template of issue, label, pull request
 * Release automation (using. release-drafter)
 * Applied pre-commit hook (flake8)
+* Applied Dependabot security updates (testing)
 
 
 
