@@ -25,3 +25,8 @@ The set template is as follows. (**Can be customized**)
 # sudo github-label-sync --access-token [액세스 토큰] --labels labels.json [계정명]/[저장소 이름]
 ```
 
+
+## Install pre-commit
+```
+# pre-commit install
+```
