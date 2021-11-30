@@ -3,12 +3,12 @@
 The set template is as follows. (**Can be customized**)
 
 * Applied .gitignore
-  * .gitignore file brings from .gitignore.io (default. "Python", "PyCharm+all", "macOS", "Linux", "Windows", "Terraform").
+* .gitignore file brings from .gitignore.io (default. "Python", "PyCharm+all", "macOS", "Linux", "Windows", "Terraform", "Node").
 * Applied template of issue, label, pull request
 * Release automation (using. release-drafter)
+* Generates Release Notes (using. github-release-notes)
 * Applied pre-commit hook (flake8)
 * Applied Dependabot security updates (testing)
-* Applied GREN for managing release note
 
 
 
