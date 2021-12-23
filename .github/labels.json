@@ -1,5 +1,10 @@
 [
   {
+    "name": "question",
+    "color": "9a33cb",
+    "description": "Further information is requested"
+  },
+  {
     "name": "bug",
     "color": "d73a4a",
     "description": "Indicates an unexpected problem or unintended behavior"
